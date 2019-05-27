@@ -1,0 +1,20 @@
+{
+  "name": "airbel_bot",
+  "version": "1.0.0",
+  "description": "help to navigate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel G",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "save": "^2.3.3"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
